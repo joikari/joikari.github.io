@@ -124,8 +124,7 @@ _**Generalized Markup Language** (GML) is another old markup language, which is 
 ![Lagotto Romagnolo](https://upload.wikimedia.org/wikipedia/commons/e/e0/Bellalagotto1.jpg)
 
 ## Exercise 4
-```cs
-// Apparently this worked to give C# syntax highlight to work at least in Visual Studio Code
+```C#
 public class Person{
   private string name;
   private int age;
